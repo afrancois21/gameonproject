@@ -1,0 +1,20 @@
+- [ ] Find existing repository
+  - [ ] Hangman
+  - [ ] Number Guessing
+  - [ ] Rock Paper Scissors
+  - [ ] Mastermind
+- [ ] Test and evaluate repository
+  - [ ] Hangman
+  - [ ] Number Guessing
+  - [ ] Rock Paper Scissors
+  - [ ] Mastermind
+- [ ] Create Hangman Code
+  - [ ] Test and Ensure Running Smoothly
+- [ ] Create Number Guessing Code
+  - [ ] Test and Ensure Running Smoothly
+- [ ] Create Rock Paper Scissors Code
+  - [ ] Test and Ensure Running Smoothly
+- [ ] Create Mastermind Code
+  - [ ] Test and Ensure Running Smoothly
+- [ ] Create Loop for Game Selection
+  - [ ] Test and Ensure Running Smoothly
