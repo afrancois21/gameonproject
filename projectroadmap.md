@@ -8,8 +8,8 @@
   - [x] Number Guessing
   - [x] Rock Paper Scissors
   - [x] Mastermind
-- [ ] Create Hangman Code
-  - [ ] Test and Ensure Running Smoothly
+- [x] Create Hangman Code
+  - [x] Test and Ensure Running Smoothly
 - [ ] Create Number Guessing Code
   - [ ] Test and Ensure Running Smoothly
 - [ ] Create Rock Paper Scissors Code
